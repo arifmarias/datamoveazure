@@ -1,5 +1,5 @@
 # Create destination table in Azure Data warehouse
-This file contains text you can copy and paste for the examples in Cloud Academy's _Using Azure Data Lake Storage Gen2_ course.  
+This file contains text you can copy and paste for the Data Flow _Using Azure Data Lake Storage Gen2_ , _Azure Storage_, _Azure Synapse Analytics_  
 
 ```
 CREATE SCHEMA [prod];
