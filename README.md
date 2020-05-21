@@ -19,9 +19,9 @@ CREATE SCHEMA [prod];
 GO
 CREATE TABLE [prod].vGetAllCategories
 (
-    [ProductCategoryID] [nvarchar](50) NOT NULL,
 	[ParentProductCategoryName] [nvarchar](50) NOT NULL,
-	[ProductCategoryName] [nvarchar](50) NOT NULL
+	[ProductCategoryName] [nvarchar](50) NOT NULL,
+	[ProductCategoryID] [int](50) NOT NULL,
 	
 )
 ```
