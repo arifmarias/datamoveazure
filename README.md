@@ -1,6 +1,6 @@
-# Create destination table in Azure Data warehouse
-This file contains text you can copy and paste for the Data Flow _Using Azure Data Lake Storage Gen2_ , _Azure Storage_, _Azure Synapse Analytics_  
+This file contains text you can copy and paste for the Data Flow _Using Azure Data Lake Storage Gen2_ , _Azure Storage_, _Azure Synapse Analytics_  and _Azure Data Factory_
 
+# Create destination table in Azure Data warehouse
 ```
 CREATE SCHEMA [prod];
 GO
