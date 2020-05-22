@@ -21,7 +21,7 @@ CREATE TABLE [prod].vGetAllCategories
 (
 	[ParentProductCategoryName] [nvarchar](50) NOT NULL,
 	[ProductCategoryName] [nvarchar](50) NOT NULL,
-	[ProductCategoryID] [int] NOT NULL,
+	[ProductCategoryID] [int] NOT NULL
 	
 )
 ```
